@@ -17,12 +17,6 @@
 
  **<h3 align="center">I'm a college student always looking to improve my software development skills. I'm currently studying front-end development, but I'm also very interested in backend development. I'm doing my best to create something incredible. 👍</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 🌱 I'm currently learning: **📚 PostgreSQL, Java and Python**
-- 💬 Ask me about: **💡 CSS, Javascript, C and Java**
-- 📂 Portfolio: **<a href="🌐 gilbertosilva.dev.br" target="_blank">🌐 gilbertosilva.dev.br</a>**
-
  **<h3 align="left">Skills</h3>**
 
 <table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=java" height="28" alt="Java"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=c" height="28" alt="C"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bootstrap" height="28" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL"/></td></table>
