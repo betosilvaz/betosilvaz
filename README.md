@@ -20,11 +20,3 @@
  **<h3 align="left">Skills</h3>**
 
 <table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=java" height="28" alt="Java"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=c" height="28" alt="C"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bootstrap" height="28" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL"/></td></table>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=betosilvaz&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=betosilvaz&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
